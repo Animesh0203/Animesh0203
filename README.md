@@ -1,1 +1,1 @@
-<div style="width:100%;height:0;padding-bottom:60%;position:relative;"><iframe src="https://giphy.com/embed/13GIgrGdslD9oQ" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/reaction-typing-unpopular-opinion-13GIgrGdslD9oQ">via GIPHY</a></p>
+<img src="[https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif](https://giphy.com/gifs/reaction-typing-unpopular-opinion-13GIgrGdslD9oQ)" alt="Coder GIF" width="500">
