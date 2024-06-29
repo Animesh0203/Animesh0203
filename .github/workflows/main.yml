@@ -20,12 +20,11 @@ jobs:
 
       # Set up Node.js environment
       - name: Setup Node.js
-        uses: actions/setup-node@v3.8.1
+        uses: actions/setup-node@v3
         with:
           node-version: '20'
 
-      # Install dependencies (if any) - this is needed only if the action requires Node modules.
-      # For generating the snake, this might not be required, but keeping it here for completeness.
+      # Install dependencies (if any)
       - name: Install dependencies
         run: npm install
 
