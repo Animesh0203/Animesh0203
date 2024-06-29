@@ -1,8 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Animesh0203&label=Profile%20views&color=0e75b6&style=flat" alt="Animesh" /> </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Animesh0203/Animesh0203/output/github-contribution-grid-snake-dark.svg" alt="snake"></center>
-</p>
+![snake gif](https://github.com/Animesh0203/Animesh0203/blob/output/github-contribution-grid-snake.gif)
 <div>
     <p align="center">
         <div align="center">
