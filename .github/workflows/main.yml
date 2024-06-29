@@ -23,11 +23,6 @@ jobs:
         with:
           node-version: '20'
 
-      # Install dependencies (if any) - this is needed only if the action requires Node modules.
-      # For generating the snake, this might not be required, but keeping it here for completeness.
-      - name: Install dependencies
-        run: npm install
-
       # Generates the snake
       - name: Generate Snake
         uses: Platane/snk@master
